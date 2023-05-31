@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author reibo
+ *
+ */
+module PruebaTecnicaSprintBootGoldenClear {
+}
